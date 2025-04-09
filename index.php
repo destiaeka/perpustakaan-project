@@ -250,11 +250,11 @@ include 'navbar.php';
 				<div class="visi">
 					<h3>Media Sosial</h3>
 					<div>
-						<a class="link" href=" https://utmmataram.ac.id">Web SMKN 1 Nglegok</a>
-						<a class="link2" href=" utm.official2019@gmail.com">E-Mail SMKN 1 Nglegok</a>
-						<a class="link3" href=" https://www.instagram.com/official.utm?igsh=MTM5dm50cmE2amtvOQ==">IG SMKN 1 Nglegok</a>
-						<a class="link4" href=" https://www.facebook.com/utm.official2019">FB SMKN 1 Nglegok</a>
-						<a class="link6" href=" https://bnsp.go.id/detaillsp.php?id=714">Informasi Lebih Lanjut</a>
+						<a class="link" href=" 	http://smkn1nglegok.sch.id">Web SMKN 1 Nglegok</a>
+						<a class="link2" href=" smkn1_nglegok@yahoo.com">E-Mail SMKN 1 Nglegok</a>
+						<a class="link3" href=" https://www.instagram.com/infosmkn1nglegok/">IG SMKN 1 Nglegok</a>
+						<a class="link4" href=" https://www.facebook.com/SmkNegeri1Nglegok/?locale=id_ID">FB SMKN 1 Nglegok</a>
+						<a class="link6" href=" http://smkn1nglegok.sch.id">Informasi Lebih Lanjut</a>
 					</div>
 
 				</div>
